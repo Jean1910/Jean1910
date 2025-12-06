@@ -1,16 +1,17 @@
-<!-- Banner central moderno -->
+<!-- Banner -->
 <h1 align="center">✨ Jean Soares ✨</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação • ADS (4º semestre) • Apaixonado por Tecnologia</h3>
+<h3 align="center">Desenvolvedor Full Stack em Formação • ADS (4º Semestre) • Apaixonado por Tecnologia</h3>
 
 ---
 
 ## 🚀 Sobre mim
-Sou um **Desenvolvedor Full Stack Júnior em formação intensiva**, com disponibilidade imediata para atuar em projetos e em posições efetivas.  
-Participo de um **bootcamp imersivo de 480h (Generation Brasil)**, desenvolvendo aplicações completas com **JavaScript, React, Node.js, TypeScript e MySQL**.
+Sou um **Desenvolvedor Full Stack Júnior em formação intensiva**, com disponibilidade imediata para atuar em projetos e posições efetivas.
 
-Tenho experiência profissional no **Nubank**, onde atuei na área de People & Culture aplicando análise de dados, otimização de processos e visão sistêmica — habilidades que hoje reforçam minha atuação técnica como desenvolvedor.
+Atualmente participo de um **bootcamp de 480h da Generation Brasil**, criando aplicações completas com **JavaScript, React, Node.js, TypeScript e MySQL**.
 
-Busco oportunidades como **Desenvolvedor Júnior, Trainee ou Estágio Técnico**, para aplicar minhas habilidades, evoluir rápido e contribuir com soluções eficientes, organizadas e escaláveis.
+Minha experiência anterior no **Nubank**, na área de People & Culture, fortaleceu habilidades essenciais como análise de dados, visão sistêmica, foco em processos e comunicação — competências que hoje agregam valor à minha atuação técnica.
+
+Busco oportunidades como **Desenvolvedor Júnior, Trainee ou Estagiário**, com foco em crescimento acelerado, entrega de valor e construção de soluções eficientes e escaláveis.
 
 ---
 
@@ -19,15 +20,15 @@ Busco oportunidades como **Desenvolvedor Júnior, Trainee ou Estágio Técnico**
 ### 🔧 Linguagens e Tecnologias
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙️ Ferramentas
+### ⚙️ Ferramentas & Metodologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -37,65 +38,51 @@ Busco oportunidades como **Desenvolvedor Júnior, Trainee ou Estágio Técnico**
 
 ---
 
-## 📚 Formação e Desenvolvimento
-- **Bootcamp Desenvolvedor Full Stack JavaScript Jr. — Generation Brasil**  
-  - 480h+ de imersão prática com 8h/dia  
-  - React • Node.js • TypeScript • MySQL • Scrum • POO
+## 📚 Formação
 
-- **Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul**  
-  - 4º Semestre • Conclusão prevista: Dez/2025  
+### 🎓 Bootcamp — **Desenvolvedor Full Stack JavaScript Jr. (Generation Brasil)**
+- 480h+ de prática intensiva  
+- Stack: **React • Node.js • TypeScript • MySQL • Scrum • POO**
+
+### 🎓 Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul  
+- 4º Semestre — Conclusão em **Dez/2025**
 
 **Soft Skills:**  
-Crescimento contínuo, persistência, responsabilidade pessoal, comunicação não-violenta, orientação aos detalhes.
+Crescimento contínuo, persistência, responsabilidade pessoal, comunicação não-violenta, foco em detalhes.
 
 ---
 
-## 🧩 Projetos Principais
+## 🧩 Projetos em Destaque
 
-### 🌱 **Ecotech – Projeto acadêmico**
-Sistema desenvolvido na faculdade com foco em sustentabilidade e tecnologia.
-
-**Conteúdo explorado:**
-- HTML, CSS, JS  
-- Responsividade  
-- Estruturação de páginas  
-- Boas práticas de UI/UX  
-
-🔗 *Repositório:* https://github.com/Jean1910/ecotech  
-📌 *Tecnologias:* HTML, CSS, JavaScript
+### 🌱 **Ecotech — Projeto Acadêmico**
+Sistema com foco em sustentabilidade, responsividade e boas práticas de UI/UX.  
+🔗 Repositório: https://github.com/Jean1910/ecotech  
+📌 Tecnologias: HTML, CSS, JavaScript
 
 ---
 
-### 🏦 **Sistema de Conta Bancária (POO | Bootcamp Generation)**
-Aplicação backend focada em **POO, camadas e arquitetura limpa**.
-
-**Destaques do projeto:**
-- Arquitetura em camadas (Controller / Repository)  
-- Herança e Polimorfismo  
+### 🏦 **Sistema de Conta Bancária — POO (Generation)**
+Aplicação backend estruturada com arquitetura limpa.  
+Destaques:
+- Arquitetura em camadas  
+- Herança e polimorfismo  
 - Interfaces e contratos  
-- Código modular e organizado  
+- Código modular e escalável  
 
-🔗 *Repositório:* https://github.com/Jean1910/conta_bancaria
+🔗 Repositório: https://github.com/Jean1910/conta_bancaria
 
 ---
 
 ### 🎵 **Clone do Spotify**
-Projeto inspirado na interface do Spotify para treinar layout e responsividade.
-
-**Conteúdos aplicados:**
-- HTML semântico  
-- Flexbox e Grid  
-- CSS avançado  
-- Organização visual de layout  
-
-🔗 *Repositório:* https://github.com/Jean1910/Spotify  
-📌 *Tecnologias:* HTML, CSS, JavaScript
+Projeto inspirado no layout do Spotify para treinar UI/UX e responsividade.  
+🔗 Repositório: https://github.com/Jean1910/Spotify  
+📌 Tecnologias: HTML, CSS, JavaScript
 
 ---
 
-## 📂 Outros projetos
+## 📂 Outros Projetos
 - 🛒 **Nota Fiscal:** https://github.com/Jean1910/notafiscal2  
-- 💻 **Lógica e algoritmos:** https://github.com/Jean1910/Atividades-Logica  
+- 💻 **Lógica e Algoritmos:** https://github.com/Jean1910/Atividades-Logica  
 - 📘 **Exercícios JS:** https://github.com/Jean1910/Exercicios-JS  
 
 ---
@@ -104,11 +91,11 @@ Projeto inspirado na interface do Spotify para treinar layout e responsividade.
 
 <div align="center">
 
-![Jean GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jean1910&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean1910&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jean1910&theme=tokyonight)
 
 </div>
+
+
 
 ---
 
@@ -120,5 +107,6 @@ Projeto inspirado na interface do Spotify para treinar layout e responsividade.
 ---
 
 ## ⚡ Curiosidade
-Acredito em evolução diária: pequenos avanços constantes constroem grandes resultados.  
-Tecnologia para mim é transformação — e estou aqui para transformar.
+Acredito no poder do progresso contínuo: pequenos avanços diários constroem grandes resultados.  
+Para mim, **tecnologia é transformação — e estou aqui para transformar.**
+

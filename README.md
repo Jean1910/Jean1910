@@ -1,89 +1,116 @@
 <!-- Banner -->
 <h1 align="center">✨ Jean Soares ✨</h1>
-<h3 align="center">Desenvolvedor Full Stack em Formação • ADS (4º Semestre) • Apaixonado por Tecnologia</h3>
+<h3 align="center">
+Desenvolvedor Full Stack Jr • JavaScript • React • Node.js (NestJS)
+</h3>
 
 ---
 
 ## 🚀 Sobre mim
-Sou um **Desenvolvedor Full Stack Júnior em formação intensiva**, com disponibilidade imediata para atuar em projetos e posições efetivas.
 
-Atualmente participo de um **bootcamp de 480h da Generation Brasil**, criando aplicações completas com **JavaScript, React, Node.js, TypeScript e MySQL**.
+Sou **Desenvolvedor Full Stack Júnior**, com foco em **JavaScript, React.js e Node.js (NestJS)**, atuando no desenvolvimento de aplicações web completas, integração de APIs REST, autenticação, testes automatizados e deploy em produção.
 
-Minha experiência anterior no **Nubank**, na área de People & Culture, fortaleceu habilidades essenciais como análise de dados, visão sistêmica, foco em processos e comunicação — competências que hoje agregam valor à minha atuação técnica.
+Atualmente participo de um **bootcamp intensivo de 480h da Generation Brasil**, onde desenvolvo projetos práticos utilizando **React, TypeScript, NestJS, PostgreSQL/MySQL**, seguindo boas práticas como **POO, arquitetura em camadas, testes e documentação de APIs**.
 
-Busco oportunidades como **Desenvolvedor Júnior, Trainee ou Estagiário**, com foco em crescimento acelerado, entrega de valor e construção de soluções eficientes e escaláveis.
+Possuo experiência anterior no **Nubank**, na área de People & Culture, onde atuei com **análise de dados, organização de processos, atendimento interno e comunicação em ambientes de alta demanda** — habilidades que hoje aplico diretamente no desenvolvimento de software, com foco em qualidade, organização e colaboração.
+
+Busco oportunidades como **Desenvolvedor Júnior e Trainee **, com foco em aprendizado contínuo, entrega de valor e crescimento técnico.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🔧 Linguagens e Tecnologias
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🔧 Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ⚙️ Ferramentas & Metodologias
+### ⚙️ Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- React Hooks
+- Context API
+- React Router
+- Consumo de APIs REST
+- UI responsiva
+
+### 🔩 Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+- APIs REST
+- Autenticação
+- Regras de negócio
+- POO
+- Arquitetura em camadas
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- Modelagem relacional
+- CRUD
+- SQL
+
+### 🧪 Testes, Deploy & Ferramentas
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FF6C37?style=for-the-badge&logo=typeorm&logoColor=white)
+
+- Testes automatizados (Jest, Supertest)
+- Documentação de APIs (Swagger)
+- Deploy: **Vercel** (front-end) e **Render** (back-end)
+- Metodologias ágeis (Scrum)
 
 ---
 
 ## 📚 Formação
 
-### 🎓 Bootcamp — **Desenvolvedor Full Stack JavaScript Jr. (Generation Brasil)**
-- 480h+ de prática intensiva  
-- Stack: **React • Node.js • TypeScript • MySQL • Scrum • POO**
+🎓 **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul  
+📅 **Graduação concluída**  
+📌 Formação com foco em desenvolvimento de software, POO, banco de dados e lógica de programação.
 
-### 🎓 Análise e Desenvolvimento de Sistemas — Cruzeiro do Sul  
-- 4º Semestre — Conclusão em **Dez/2025**
-
-**Soft Skills:**  
-Crescimento contínuo, persistência, responsabilidade pessoal, comunicação não-violenta, foco em detalhes.
+🎓 **Bootcamp Desenvolvedor Full Stack JavaScript** — Generation Brasil  
+⏱️ 480h+ • Conclusão prevista: **Fev/2026**
 
 ---
 
 ## 🧩 Projetos em Destaque
 
+### 📝 **Blog Full Stack — Aplicação Web**
+Aplicação web full stack com autenticação de usuários e CRUD de temas e postagens.
+
+**Destaques técnicos:**
+- Front-end em **React + TypeScript**
+- Context API e React Router
+- Back-end em **NestJS**
+- Banco de dados **PostgreSQL**
+- Testes automatizados (**Jest e Supertest**)
+- Documentação com **Swagger**
+- Deploy em produção
+
+🌐 Deploy: https://blogpessoal-react-jeans-projects-8a63ba89.vercel.app/
+🔗 Repositório: *(https://github.com/Jean1910/blogpessoal_react)*
+
+---
+
 ### 🌱 **Ecotech — Projeto Acadêmico**
 Sistema com foco em sustentabilidade, responsividade e boas práticas de UI/UX.  
-🔗 Repositório: https://github.com/Jean1910/ecotech  
-📌 Tecnologias: HTML, CSS, JavaScript
+🔗 https://github.com/Jean1910/ecotech
 
 ---
 
-### 🏦 **Sistema de Conta Bancária — POO (Generation)**
-Aplicação backend estruturada com arquitetura limpa.  
-Destaques:
-- Arquitetura em camadas  
-- Herança e polimorfismo  
-- Interfaces e contratos  
-- Código modular e escalável  
-
-🔗 Repositório: https://github.com/Jean1910/conta_bancaria
-
----
-
-### 🎵 **Clone do Spotify**
-Projeto inspirado no layout do Spotify para treinar UI/UX e responsividade.  
-🔗 Repositório: https://github.com/Jean1910/Spotify  
-📌 Tecnologias: HTML, CSS, JavaScript
+### 🏦 **Sistema de Conta Bancária — POO**
+Projeto backend com arquitetura em camadas e princípios de orientação a objetos.  
+🔗 https://github.com/Jean1910/conta_bancaria
 
 ---
 
 ## 📂 Outros Projetos
-- 🛒 **Nota Fiscal:** https://github.com/Jean1910/notafiscal2  
-- 💻 **Lógica e Algoritmos:** https://github.com/Jean1910/Atividades-Logica  
-- 📘 **Exercícios JS:** https://github.com/Jean1910/Exercicios-JS  
+- 🛒 Nota Fiscal: https://github.com/Jean1910/notafiscal2  
+- 💻 Lógica e Algoritmos: https://github.com/Jean1910/Atividades-Logica  
+- 📘 Exercícios JavaScript: https://github.com/Jean1910/Exercicios-JS  
 
 ---
 
@@ -95,8 +122,6 @@ Projeto inspirado no layout do Spotify para treinar UI/UX e responsividade.
 
 </div>
 
-
-
 ---
 
 ## 📫 Contato
@@ -107,6 +132,5 @@ Projeto inspirado no layout do Spotify para treinar UI/UX e responsividade.
 ---
 
 ## ⚡ Curiosidade
-Acredito no poder do progresso contínuo: pequenos avanços diários constroem grandes resultados.  
-Para mim, **tecnologia é transformação — e estou aqui para transformar.**
-
+Acredito em progresso contínuo, aprendizado prático e código bem feito.  
+Tecnologia, para mim, é ferramenta de impacto real.

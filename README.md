@@ -10,7 +10,7 @@ Desenvolvedor Full Stack Jr • JavaScript • React • Node.js (NestJS)
 
 Sou **Desenvolvedor Full Stack Júnior**, com foco em **JavaScript, React.js e Node.js (NestJS)**, atuando no desenvolvimento de aplicações web completas, integração de APIs REST, autenticação, testes automatizados e deploy em produção.
 
-Atualmente participo de um **bootcamp intensivo de 480h da Generation Brasil**, onde desenvolvo projetos práticos utilizando **React, TypeScript, NestJS, PostgreSQL/MySQL**, seguindo boas práticas como **POO, arquitetura em camadas, testes e documentação de APIs**.
+**Concluí o bootcamp intensivo de 400h da Generation Brasil**, onde desenvolvi projetos práticos utilizando **React, TypeScript, NestJS, PostgreSQL/MySQL**, aplicando boas práticas como **POO, arquitetura em camadas, testes automatizados e documentação de APIs**.
 
 Possuo experiência anterior no **Nubank**, na área de People & Culture, onde atuei com **análise de dados, organização de processos, atendimento interno e comunicação em ambientes de alta demanda** — habilidades que hoje aplico diretamente no desenvolvimento de software, com foco em qualidade, organização e colaboração.
 

@@ -14,7 +14,7 @@ Sou **Desenvolvedor Full Stack Júnior**, com foco em **JavaScript, React.js e N
 
 Possuo experiência anterior no **Nubank**, na área de People & Culture, onde atuei com **análise de dados, organização de processos, atendimento interno e comunicação em ambientes de alta demanda** — habilidades que hoje aplico diretamente no desenvolvimento de software, com foco em qualidade, organização e colaboração.
 
-Busco oportunidades como **Desenvolvedor Júnior e Trainee **, com foco em aprendizado contínuo, entrega de valor e crescimento técnico.
+Busco oportunidades como **Desenvolvedor Júnior e Trainee**, com foco em aprendizado contínuo, entrega de valor e crescimento técnico.
 
 ---
 

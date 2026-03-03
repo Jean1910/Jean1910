@@ -72,7 +72,7 @@ Busco oportunidades como **Desenvolvedor Júnior e Trainee**, com foco em aprend
 📌 Formação com foco em desenvolvimento de software, POO, banco de dados e lógica de programação.
 
 🎓 **Bootcamp Desenvolvedor Full Stack JavaScript** — Generation Brasil  
-⏱️ 480h+ • Conclusão prevista: **Fev/2026**
+⏱️ 400h+  **Curso Tecnico concluido**
 
 ---
 

@@ -1,4 +1,3 @@
-<!-- Banner -->
 <h1 align="center">✨ Jean Soares ✨</h1>
 <h3 align="center">
 Desenvolvedor Full Stack Jr • JavaScript • React • Node.js (NestJS)
@@ -68,15 +67,42 @@ Busco oportunidades como **Desenvolvedor Júnior e Trainee**, com foco em aprend
 ## 📚 Formação
 
 🎓 **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul  
-📅 **Graduação concluída**  
-📌 Formação com foco em desenvolvimento de software, POO, banco de dados e lógica de programação.
+📅 **Graduação concluída** 📌 Formação com foco em desenvolvimento de software, POO, banco de dados e lógica de programação.
 
 🎓 **Bootcamp Desenvolvedor Full Stack JavaScript** — Generation Brasil  
-⏱️ 400h+  **Curso Tecnico concluido**
+⏱️ 400h+  **Curso Técnico concluído**
 
 ---
 
 ## 🧩 Projetos em Destaque
+
+### 🥗 **Leve&Bem — Sistema de Delivery Web**
+Aplicação full stack para gerenciamento de produtos, categorias e pedidos, com API REST e operações CRUD.
+
+**Destaques técnicos:**
+- Front-end em **React + TypeScript** com **Tailwind CSS**, organizado por componentes e rotas
+- Back-end em **NestJS (Node.js)** estruturado em Controllers, Services e Modules
+- Utilização de DTOs e validações
+- Banco de dados **MySQL**
+
+🌐 Deploy: http://delivery-frontend-two-omega.vercel.app/
+🔗 Repositório: https://github.com/grupo06-turmajavascript11/DELIVERY-FRONTEND
+
+---
+
+### 📈 **CRM Atlas6 — Sistema de Gestão Comercial**
+Aplicação full stack para gestão de leads e oportunidades com autenticação e operações CRUD. Atuação como desenvolvedor em todas as sprints e como Scrum Master na etapa final.
+
+**Destaques técnicos:**
+- Front-end em **React + TypeScript** (HTML, CSS) organizado por componentes e rotas
+- Back-end estruturado em camadas com Controllers, Services e DTOs em **Node.js**
+- Banco de dados **MySQL**
+- Metodologia ágil (vivência prática como **Scrum Master**)
+
+🌐 Deploy: https://crm-frontend-task-2.vercel.app/
+🔗 Repositório: https://github.com/grupo06-turmajavascript11/CRM-FRONTEND-TASK2
+
+---
 
 ### 📝 **Blog Full Stack — Aplicação Web**
 Aplicação web full stack com autenticação de usuários e CRUD de temas e postagens.
@@ -91,19 +117,20 @@ Aplicação web full stack com autenticação de usuários e CRUD de temas e pos
 - Deploy em produção
 
 🌐 Deploy: https://blogpessoal-react-jeans-projects-8a63ba89.vercel.app/
-🔗 Repositório: *(https://github.com/Jean1910/blogpessoal_react)*
+🔗 Repositório: https://github.com/Jean1910/blogpessoal_react
 
 ---
 
 ### 🌱 **Ecotech — Projeto Acadêmico**
 Sistema com foco em sustentabilidade, responsividade e boas práticas de UI/UX.  
-🔗 https://github.com/Jean1910/ecotech
+🌐 Deploy: https://dashing-moonbeam-5d0b1a.netlify.app/
+🔗 Repositório: https://github.com/Jean1910/ecotech
 
 ---
 
 ### 🏦 **Sistema de Conta Bancária — POO**
 Projeto backend com arquitetura em camadas e princípios de orientação a objetos.  
-🔗 https://github.com/Jean1910/conta_bancaria
+🔗 Repositório: https://github.com/Jean1910/conta_bancaria
 
 ---
 
